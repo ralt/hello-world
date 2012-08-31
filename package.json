@@ -1,0 +1,19 @@
+{
+    "name": "mymodule",
+    "version": "0.0.1",
+    "description": "A simple module showing how to make them",
+    "author": {
+        "name": "Florian Margaine",
+        "email": "florian@margaine.com",
+        "url": "http://margaine.com"
+    },
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/mymodule"
+    },
+    "engines": {
+        "node": ">= 0.6"
+    }
+}
+
