@@ -1,5 +1,5 @@
 {
-    "name": "mymodule",
+    "name": "hello-world",
     "version": "0.0.1",
     "description": "A simple module showing how to make them",
     "author": {
@@ -10,7 +10,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ralt/mymodule"
+        "url": "https://github.com/Ralt/hello-world"
     },
     "engines": {
         "node": ">= 0.6"

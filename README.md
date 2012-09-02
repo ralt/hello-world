@@ -1,4 +1,4 @@
-mymodule
+hello-world
 ===
 
 Introduction
@@ -11,6 +11,12 @@ could then be shared on npm or be kept private.
 
 Instructions
 ---
+
+If you just want to run this module, do the following:
+
+    npm install hello-world
+
+And see the `example.js` file for a usage example.
 
 Here are the instructions to see how to run this module and also how to develop
 your modules:
